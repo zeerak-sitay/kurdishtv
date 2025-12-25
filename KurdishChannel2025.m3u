@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="News",NRT
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
