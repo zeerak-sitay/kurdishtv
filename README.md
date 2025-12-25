@@ -1,2 +1,0 @@
-# kurdishtv
-kurdish iptv
